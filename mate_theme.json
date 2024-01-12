@@ -1,4 +1,4 @@
-[ {
+{
     "author" : "Mate", 
     "name" : "mate_theme", 
     "keyWords" : "ta mere",
@@ -9,4 +9,4 @@
     "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.jpg",
     "creationDate" : "12/01/2024", 
     "modificationDate" : "12/01/2024"
-    } ]
+    }
